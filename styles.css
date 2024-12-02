@@ -1,0 +1,47 @@
+/*
+Electric blue: 1BE7FF
+Light green: 6EEB83
+Lemon lime: E4FF1A
+Selective yellow: FFB800
+Giants orange: FF5714
+white: f6f6f6
+*/
+
+/* GLOBAL
+-------------------------------*/
+body {
+    background: #f6f6f6;
+}
+
+/* HOME
+-------------------------------*/
+.home {
+    background:url(../images/background.png) no-repeat;
+    background-size: cover;
+
+}
+
+.home .content-wrapper {
+    background: rgb(255 255 255/ 0.9);
+}
+/* RESUME
+-------------------------------*/
+
+/* Profile
+-------------------------------*/
+
+/* Projects
+-------------------------------*/
+
+/* Work Experience
+-------------------------------*/
+
+/* Education
+-------------------------------*/
+
+/* FOOTER
+-------------------------------*/
+footer {
+    background: #222;
+    color: #FF5714
+}
